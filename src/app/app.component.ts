@@ -6,12 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'XsisKitchen';
-  peoples =[
-    {id : 1, name : 'Budi Gunawan', age: 18},
-    {id : 2, name : 'Andi Tjandra', age: 22},
-    {id : 3, name : 'William Sugito', age: 21},
-    {id : 4, name : 'Wati Ningsih', age: 18},
-    {id : 5, name : 'Rudi', age: 22}
-  ]
+  title = 'XSIS Kitchen';
+  
 }
